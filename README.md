@@ -1,5 +1,4 @@
-# MIE_1516_Project
-Title: Predicting Non-ambulatory Patients in Emergency Departments (ED) Using Probabilistic Graphical Models.
+# MIE_1516_Project : Predicting Non-ambulatory Patient Arrival in Emergency Departments (ED) Using Probabilistic Graphical Models.
 
 This project contains two files:
 (i) MIE_1516 Report: It contains a detailed exploration of data, analysis on the results, model comparisons and conclusion.
